@@ -21,3 +21,8 @@ Method `info` adalah method yang mengembalikan informasi tentang item menu dalam
 Method `get_total_price` adalah method yang menghitung total harga berdasarkan jumlah pesanan. Method ini menerima satu argumen bernama `count` yang mewakili jumlah pesanan. Dalam method ini, total harga dihitung dengan mengalikan atribut instance `price` dengan argumen `count`. Jika nilai dari argumen `count` lebih besar dari atau sama dengan 3, maka total harga dikalikan dengan 0.9 untuk memberikan diskon sebesar 10%. Total harga kemudian dibulatkan ke bilangan bulat terdekat menggunakan fungsi `round` dan dikembalikan sebagai nilai return dari method.
 
 Secara keseluruhan, class `MenuItem` ini memungkinkan pembuatan instance yang mewakili item menu dengan nama dan harga tertentu. Instance tersebut dapat memberikan informasi tentang item menu dan menghitung total harga berdasarkan jumlah pesanan.
+
+Berikut output program :
+
+<img width="920" alt="image" src="https://github.com/CharlesD12/simple-cashier/assets/78160523/b2387dd2-32ad-4754-bb37-9bd1069c859d">
+
