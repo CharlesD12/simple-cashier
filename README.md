@@ -1,5 +1,5 @@
 # simple-cashier
-Ini merupakan program kasir sederhana dengan menggunakan object, instance, class, method init, dan list. Pada program menu_item memungkinkan pengguna untuk memilih item dari menu yang tersedia dan memasukkan jumlah pesanan. Setelah itu, program akan menghitung total harga berdasarkan item yang dipilih dan jumlah pesanan.
+Proyek yang telah saya kerjakan ini merupakan program kasir sederhana dengan menggunakan object, instance, class, method init, dan list. Pada program menu_item memungkinkan pengguna untuk memilih item dari menu yang tersedia dan memasukkan jumlah pesanan. Setelah itu, program akan menghitung total harga berdasarkan item yang dipilih dan jumlah pesanan.
 
 Pertama-tama, program ini mengimpor class MenuItem dari file menu_item. Kemudian, program membuat empat instance dari class MenuItem dengan nama menu_item1, menu_item2, menu_item3, dan menu_item4. Setiap instance mewakili item menu yang berbeda dengan nama dan harga yang berbeda.
 
